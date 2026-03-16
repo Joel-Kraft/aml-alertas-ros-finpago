@@ -79,4 +79,4 @@ Para consultas sobre el contenido de este repositorio:
 ---
 
 *Última actualización: marzo de 2026*
-*Portfolio AML/KYC  — github.com/[Joel-Kraft]/aml-alertas-ros-finpago*
+*Portfolio AML/KYC  — github.com/Joel-Kraft/aml-alertas-ros-finpago*
