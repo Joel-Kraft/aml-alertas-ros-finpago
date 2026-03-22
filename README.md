@@ -15,7 +15,15 @@ informes de análisis estructurados según el formato oficial de la UIF, un log 
 fórmulas de control de plazo, y un dashboard de monitoreo de cola de alertas en Power BI.
 
 ---
+## Capturas del dashboard
 
+### Página 1 — Vista Operacional (Analista)
+![Página 1](dashboard/pagina_1_vista_operacional.png)
+
+### Página 2 — Vista Gerencial (Oficial de Cumplimiento)
+![Página 2](dashboard/pagina_2_vista_gerencial.png)
+
+---
 ## Marco normativo aplicado
 
 | Norma | Disposiciones clave | Enlace |
